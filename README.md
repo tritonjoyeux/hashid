@@ -8,6 +8,6 @@ Welcome to **hashId** !
 **hashid-single.php** is a single command line script. Just use **php hashid-single.php "argv"** with your hash in the current folder to use it.
 
 <u>**Usage**</u> :  
-**- -list, - -l, list** : list all hash available.<br>
-**- -help, - -h, help** : display help documentation.<br>
-**- -exit, - -e, exit** : to quit the script (only for **hashid.php**)
+**--list, --l, list** : list all hash available.<br>
+**--help, --h, help** : display help documentation.<br>
+**--exit, --e, exit** : to quit the script (only for **hashid.php**)
